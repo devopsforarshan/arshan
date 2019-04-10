@@ -1,3 +1,4 @@
 #!/bin/bash
 
-ifconfig
+hostname -i
+uname -r
